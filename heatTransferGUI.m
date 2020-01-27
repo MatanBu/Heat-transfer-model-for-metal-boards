@@ -1,7 +1,3 @@
-% ---HW3---
-% Matan Buhbut     303020341
-% Sapir Ben David  205776867
-% Orel Ben Harush  305436446
 
 function varargout = heatTransferGUI(varargin)
 
